@@ -75,3 +75,18 @@ This project builds a machine learning pipeline to analyze historical emissions 
   ' jupyter notebook '
 
 
+## Contributing  
+We welcome contributions to improve this project! Here's how you can contribute:  
+
+1. **Fork the repository**: Click the "Fork" button at the top of this page to create a copy of this repository under your account.  
+2. **Clone the repository**: Clone your forked repository to your local machine.  
+   ```bash
+   git clone https://github.com/Anmolkrish/greenhouse-gas-emissions.git
+   git checkout -b feature-name
+
+License
+
+Replace `Anmolkrish` with your GitHub username. Ensure that you include a `LICENSE` file in your repository if you refer to it.
+
+   
+
